@@ -1,0 +1,24 @@
+import bgElement1 from './cornerred.svg';
+import bgElement2 from './corneryellow.svg';
+import blog1 from './Thumbnail1.png';
+import blog2 from './Thumbnail2.png';
+import blog3 from './Thumbnail3.png';
+import closeIcon from './Frame 4.svg';
+import facebookLogo from './Facebook Logo.svg';
+import instagramLogo from './Instagram Logo.svg';
+import twitterLogo from './Twitter Logo.svg';
+import mastering from './mastering.png';
+import frequencies from './frequencies.png';
+import menuIcon from './Menu Icon.svg';
+import heroImage from './background.png';
+import daw from './daw.png';
+import mixing from './mixing.png';
+import mixingConsole from './mconsole.png';
+import vocalProcessiong from './vocal.png';
+import studentIcon from './studentIcon.svg';
+import videoIcon from './videofile.svg';
+import Testimonial1 from './peter.png';
+import Testimonial2 from './robert.png';
+import Testimonial3 from './emily.png';
+
+export { mixingConsole, bgElement1, bgElement2, blog1, blog2, blog3, closeIcon, facebookLogo, instagramLogo, twitterLogo, mastering, frequencies, menuIcon, heroImage, daw, mixing, vocalProcessiong, studentIcon, videoIcon, Testimonial1, Testimonial2, Testimonial3 };
