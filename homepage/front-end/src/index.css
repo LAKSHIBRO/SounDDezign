@@ -66,3 +66,7 @@ section h2.light::after{
 section .content-container{
     display: flex;
 }
+
+a.logo .red{
+    color: var(--red-color);
+}

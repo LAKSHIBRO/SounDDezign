@@ -25,7 +25,3 @@ a.logo{
     font-weight: 800;
     color: white;
 }
-
-a.logo .red{
-    color: var(--red-color);
-}
